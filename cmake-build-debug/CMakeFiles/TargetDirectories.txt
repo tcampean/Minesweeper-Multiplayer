@@ -1,0 +1,4 @@
+D:/GitHub/e3-912-Campean-Tudor-Alexandru/cmake-build-debug/CMakeFiles/e3_912_Campean_Tudor_Alexandru.dir
+D:/GitHub/e3-912-Campean-Tudor-Alexandru/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/GitHub/e3-912-Campean-Tudor-Alexandru/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/GitHub/e3-912-Campean-Tudor-Alexandru/cmake-build-debug/CMakeFiles/e3_912_Campean_Tudor_Alexandru_autogen.dir

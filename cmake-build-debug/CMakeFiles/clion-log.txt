@@ -1,0 +1,5 @@
+"D:\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\GitHub\e3-912-Campean-Tudor-Alexandru
+-- Could NOT find Vulkan (missing: Vulkan_LIBRARY Vulkan_INCLUDE_DIR) 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/GitHub/e3-912-Campean-Tudor-Alexandru/cmake-build-debug
